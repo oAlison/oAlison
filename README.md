@@ -11,4 +11,4 @@ Meu nome é Álison, tenho 18 anos, atualmente trabalho com as linguagens Java e
 
 ## 📊 ***Estatísticas***
   <img src="https://github-readme-stats.vercel.app/api?username=oalison&show_icons=true&theme=radical" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalison&show_icons=true&theme=radical" height="123px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalison&show_icons=true&theme=radical" height="180px">
