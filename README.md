@@ -10,8 +10,5 @@ Meu nome é Álison, tenho 18 anos, atualmente trabalho com as linguagens Java e
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3)  ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=MySQL&logoColor=fff) ![VSC](https://img.shields.io/badge/-VSC-0078D7?style=for-the-badge&logo=visual-studio-code) ![eclipse](https://img.shields.io/badge/-eclipse-433581?style=for-the-badge&logo=eclipse) 
 
 ## 📊 ***Estatísticas***
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oAlison&show_icons=true&theme=radical" height="195px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oAlison&show_icons=true&theme=radical" height="140px">
-</p>
