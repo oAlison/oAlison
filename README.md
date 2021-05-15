@@ -1,6 +1,7 @@
 
 # Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+
 Meu nome é Álison, tenho 18 anos, atualmente trabalho com as linguagens Java e JavaScript. Abaixo você pode encontrar meus contatos e as áreas em que trabalho e/ou estudo.
 
 [![Discord Badge](https://img.shields.io/badge/-Álison%233220-738ADB?style=for-the-badge&square&logo=Discord&logoColor=white)](Álison#3220) [![Gmail Badge](https://img.shields.io/badge/-alison@hubcodes.com-c14438?style=for-the-badge&square&logo=Gmail&logoColor=white&link=mailto:alison@hubcodes.com)](mailto:alison@hubcodes.com)
